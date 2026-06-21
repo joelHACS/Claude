@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Service Erinnerung</string>
+    <string name="notification_title">Service Button drücken!</string>
+    <string name="notification_text">Bitte den täglichen Service Button drücken.</string>
+    <string name="action_done">✓ Erledigt</string>
+    <string name="channel_name">Service Erinnerungen</string>
+    <string name="channel_description">Stündliche Erinnerung ab 14:00 Uhr</string>
+    <string name="btn_activate">Erinnerungen aktivieren</string>
+    <string name="btn_deactivate">Erinnerungen deaktivieren</string>
+    <string name="status_inactive">Inaktiv – Tippe auf Aktivieren um zu starten.</string>
+    <string name="status_active">Aktiv – Nächste Erinnerung läuft stündlich ab 14:00 Uhr.</string>
+    <string name="status_done_until">Erledigt ✓\nNächste Erinnerung am %1$s Uhr.</string>
+</resources>
